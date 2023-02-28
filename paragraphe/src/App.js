@@ -1,8 +1,9 @@
 import "./App.css";
 import React from "react";
+import ConfigRoutes from "./routes/configRoutes";
 
 const App = () => {
-  return <div></div>;
+  return <ConfigRoutes />;
 };
 
 export default App;
