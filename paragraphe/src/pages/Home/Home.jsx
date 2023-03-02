@@ -1,12 +1,8 @@
 import React from "react";
+import Paragraphe from "../../components/paragraphe/Paragraphe";
 
 const Home = () => {
-  return (
-    <div>
-      Lorem ipsum dolor, sit amet consectetur adipisicing elit. Nostrum alias
-      rerum quis ut perferendis optio, ullam unde inventore numquam nesciunt?
-    </div>
-  );
+  return <Paragraphe />;
 };
 
 export default Home;
